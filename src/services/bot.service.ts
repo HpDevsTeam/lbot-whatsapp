@@ -11,7 +11,7 @@ export class BotService {
     private defaultBot : Bot = {
         started : 0,
         host_number: '',
-        name: "LBOT",
+        name: "Mita",
         prefix: "!",
         executed_cmds: 0,
         db_migrated: true,
